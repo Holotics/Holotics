@@ -1,16 +1,27 @@
-## Hi there 👋
+# Holotics
 
-<!--
-**Holotics/Holotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at UNISINOS · Brazil  
+Interested in backend engineering and data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+
+- Self-studying Python and CS fundamentals ahead of university
+- Working through CS50P
+- Building small projects to solidify concepts
+
+## Tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## Interests
+
+Backend engineering · Data 
+
+---
+
+*CS degree starting 2026 · Targeting remote work*
