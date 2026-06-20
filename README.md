@@ -7,7 +7,7 @@ Interested in backend engineering and data.
 
 ## Currently
 
-- Self-studying Python and CS fundamentals ahead of university
+- Self studying Python and CS fundamentals ahead of university
 - Working through CS50P
 - Building small projects to solidify concepts
 
